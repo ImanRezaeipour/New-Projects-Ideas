@@ -1,4 +1,4 @@
-# New-Projects-Ideas
+# New Projects Ideas
 
 Ticket Management System \
 Phone Numbers Management \
@@ -18,6 +18,7 @@ Website Builder \
 Portfolio Blog \
 Marketplace Platform \
 Speech to Text \
-Driver Training System
+Driver Training System \
+News Agency System
 
 
