@@ -27,4 +27,7 @@ Radio Stations Platform \
 Development Tools \
 Crawling Tools \
 Library Management System \
-Movie Dictionary Platform
+Movie Dictionary Platform \
+Reservation System \
+Company Page Management \
+Hotel Booking
